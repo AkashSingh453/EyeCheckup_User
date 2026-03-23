@@ -23,8 +23,9 @@ This project aims to provide users with a holistic approach to eye care, making 
 
 <br/>
 
-https://github.com/user-attachments/assets/ab65e435-1c88-44f9-a25a-0828a4cf1458
-
-#### Last Updated: 2026-02-10
+<div align="center">
+  <h3>Video Demo</h3>
+  <video src="https://github.com/user-attachments/assets/ab65e435-1c88-44f9-a25a-0828a4cf1458" controls="controls" style="max-width: 100%;"></video>
+</div>
 
 #### Last Updated: 2026-02-10
