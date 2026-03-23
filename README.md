@@ -11,10 +11,7 @@ This project aims to provide users with a holistic approach to eye care, making 
 
 # 📱 UI Previews & Demo
 
-| :-------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: |
-
-![WhatsApp Image 2026-02-10 at 20 32 13](https://github.com/user-attachments/assets/8e2c203b-6cdd-4bb5-a17d-e208cedec8f0)
-![ProfileScreen](https://github.com/user-attachments/assets/9cbfd432-eb25-4670-b2be-9ec6e7005cf4)
+![WhatsApp Image 2026-02-10 at 20 32 13](https://github.com/user-attachments/assets/8e2c203b-6cdd-4bb5-a17d-e208cedec8f0)  ![ProfileScreen](https://github.com/user-attachments/assets/9cbfd432-eb25-4670-b2be-9ec6e7005cf4)
 ![LocationScreen](https://github.com/user-attachments/assets/747c4673-3f14-41b9-9d20-3c96ecf19474)
 ![HomeScreen](https://github.com/user-attachments/assets/501179a6-d9a3-4d64-854d-4990e249758c)
 ![DoctorsProfile](https://github.com/user-attachments/assets/8fe06404-45c5-40b4-9d5e-0834b756b31e)
